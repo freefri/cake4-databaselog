@@ -1,0 +1,24 @@
+{
+	"name": "freefri/cake4-databaselog",
+	"description": "Storing CakePHP 4.x logs into database.",
+	"type": "cakephp-plugin",
+	"keywords": ["cakephp", "log", "database"],
+	"homepage": "https://github.com/freefri/cake4-databaselog",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Freefri",
+			"homepage": "https://github.com/freefri",
+			"role": "Author"
+		}
+	],
+	"support": {
+		"issues": "https://github.com/freefri/cake4-databaselog/issues",
+		"source": "https://github.com/freefri/cake4-databaselog"
+	},
+	"require": {
+		"php": ">=5.4.1",
+		"composer/installers": "*"
+	}
+}
+
